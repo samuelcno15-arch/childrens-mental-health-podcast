@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DRAFT — NOT PUBLISHED. Self-hosted replacement feed for "Children's Mental Health with Sam".
+     Built 2026-10-29 from the two Muse-generated feeds. Carries every episode with its
+     ORIGINAL guid, pubDate and enclosure URL, and adds the ownership tags the Muse
+     feed lacks (itunes:owner / itunes:author / managingEditor / podcast:guid). -->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>Children's Mental Health with Sam</title>
+  <link>https://samuelcno15-arch.github.io/childrens-mental-health-podcast/</link>
+  <description>A daily podcast on children's mental health — the warning signs, the latest research, and practical guidance for parents, caregivers, and teachers. Hosted by Sam, a registered social worker, with Amara.
+
+AI Generated</description>
+  <language>en</language>
+  <copyright>© 2026 Samuel Chukwuemeka Okafor</copyright>
+  <managingEditor>samuelcno15@gmail.com (Samuel Chukwuemeka Okafor)</managingEditor>
+  <itunes:author>Sam</itunes:author>
+  <itunes:owner>
+    <itunes:name>Samuel Chukwuemeka Okafor</itunes:name>
+    <itunes:email>samuelcno15@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:image href="https://samuelcno15-arch.github.io/childrens-mental-health-podcast/cover.png"/>
+  <image>
+    <url>https://samuelcno15-arch.github.io/childrens-mental-health-podcast/cover.png</url>
+    <title>Children's Mental Health with Sam</title>
+    <link>https://samuelcno15-arch.github.io/childrens-mental-health-podcast/</link>
+  </image>
+  <atom:link href="https://samuelcno15-arch.github.io/childrens-mental-health-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <podcast:guid>84bc9ede-dc1b-4167-a664-ab1e91cc5fb5</podcast:guid>
+  <podcast:locked owner="samuelcno15@gmail.com">yes</podcast:locked>
+  <item>
+    <title>When Nightmares Keep Coming Back: Helping a Child Feel Safe to Sleep Again</title>
+    <description>Sam, a registered social worker, and Amara explore why recurring nightmares become a cycle of dreading sleep itself, how children can learn mastery over bad dreams through calm routines, daytime rewriting and small brave steps in the dark, and when to seek extra help.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-97142fac-4c98-40b8-9b39-644aa35360dc.mp3" length="3297253" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-97142fac-4c98-40b8-9b39-644aa35360dc</guid>
+    <pubDate>Thu, 29 Oct 2026 11:01:48 +0000</pubDate>
+    <itunes:duration>412</itunes:duration>
+  </item>
+  <item>
+    <title>More Than Squabbling: When Sibling Fights Stop Being Normal</title>
+    <description>Sam, a registered social worker, and Amara explore why sibling aggression deserves to be taken seriously, how to spot a one-sided pattern of power and fear, what to do in the hot moment, and how calm repair and individual attention help brothers and sisters feel safe at home.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-2cf87b13-e60c-4bae-9c67-62832f787b23.mp3" length="3866917" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2cf87b13-e60c-4bae-9c67-62832f787b23</guid>
+    <pubDate>Wed, 28 Oct 2026 11:03:01 +0000</pubDate>
+    <itunes:duration>483</itunes:duration>
+  </item>
+  <item>
+    <title>More Than Teasing: Helping a Child Who Is Being Bullied</title>
+    <description>Sam, a registered social worker, and Amara explore how to tell bullying from a friendship fallout, spot the quieter signs a child may not report, respond with calm belief, work with the school step by step, and rebuild confidence through steady support at home.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-ba9052af-75f3-4073-9c1b-724b9d54bbe7.mp3" length="3916837" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ba9052af-75f3-4073-9c1b-724b9d54bbe7</guid>
+    <pubDate>Tue, 27 Oct 2026 11:03:37 +0000</pubDate>
+    <itunes:duration>489</itunes:duration>
+  </item>
+  <item>
+    <title>When Anger Bursts Out: Helping a Child Who Goes From Calm to Storm</title>
+    <description>Sam, a registered social worker, and Amara explore why a child's anger can burst out in seconds, why reasoning fails mid-storm, and how calm co-regulation, a steady boundary, and short practice after the storm help a child learn to settle.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-ccc9d0ea-8227-4c5e-88c8-924c9470f206.mp3" length="3866533" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ccc9d0ea-8227-4c5e-88c8-924c9470f206</guid>
+    <pubDate>Mon, 26 Oct 2026 11:02:15 +0000</pubDate>
+    <itunes:duration>483</itunes:duration>
+  </item>
+  <item>
+    <title>When School Feels Impossible: Helping a Child Who Dreads the School Morning</title>
+    <description>Sam, a registered social worker, and Amara explore emotionally based school avoidance — why real morning distress is not defiance, how staying home can strengthen the fear, and how a small, graded return built with the school helps a child cope step by step.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-e8d5755d-c82f-4a0b-9871-8db48448ae81.mp3" length="3664357" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e8d5755d-c82f-4a0b-9871-8db48448ae81</guid>
+    <pubDate>Sun, 25 Oct 2026 11:01:58 +0000</pubDate>
+    <itunes:duration>458</itunes:duration>
+  </item>
+  <item>
+    <title>After the Argument: Teaching Children to Repair, Not Just Say Sorry</title>
+    <description>Sam, a registered social worker, and Amara explore why a forced sorry rarely fixes anything, how calm and simple mediation help children resolve conflict fairly, and how repair — words plus a small act that makes things right — rebuilds trust after an argument.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-7d43f479-324a-4aab-adcb-c45c6f2fa06c.mp3" length="3690661" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7d43f479-324a-4aab-adcb-c45c6f2fa06c</guid>
+    <pubDate>Sat, 24 Oct 2026 11:01:49 +0000</pubDate>
+    <itunes:duration>461</itunes:duration>
+  </item>
+  <item>
+    <title>Name It to Tame It: Helping Children Turn Big Feelings Into Words</title>
+    <description>Sam, a registered social worker, and Amara explore why naming a feeling helps a child settle, how emotion words build regulation, and how to co-regulate with calm, precise words and the smallest helpful support instead of taking over.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-0378366e-4580-4fa0-ae9c-6c4422f8c305.mp3" length="3608101" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0378366e-4580-4fa0-ae9c-6c4422f8c305</guid>
+    <pubDate>Fri, 23 Oct 2026 11:01:25 +0000</pubDate>
+    <itunes:duration>451</itunes:duration>
+  </item>
+  <item>
+    <title>When Good Enough Feels Like Failure: Helping a Child Who Fears Mistakes</title>
+    <description>Sam, a registered social worker, and Amara explore perfectionism in children, how to tell healthy striving from the fear driven kind linked to anxiety and low mood, why our reaction to mistakes matters as much as our standards, and practical ways to help a child treat a mistake as information, not a verdict.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-5ec45723-6e6f-4758-afa2-07f81eb0269d.mp3" length="3816997" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5ec45723-6e6f-4758-afa2-07f81eb0269d</guid>
+    <pubDate>Thu, 22 Oct 2026 11:03:54 +0000</pubDate>
+    <itunes:duration>477</itunes:duration>
+  </item>
+  <item>
+    <title>When the Spark Goes Out: Spotting Low Mood in Children and Helping Them Reconnect</title>
+    <description>Sam, a registered social worker, and Amara explore how low mood in children often shows as irritability and lost interest rather than sadness, how to check the pattern over two weeks, and how small planned steps, movement and honest conversation help a child reconnect.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-efc5983b-d50c-4bbc-96e3-8a488b7d20b3.mp3" length="3322405" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-efc5983b-d50c-4bbc-96e3-8a488b7d20b3</guid>
+    <pubDate>Wed, 21 Oct 2026 11:08:18 +0000</pubDate>
+    <itunes:duration>415</itunes:duration>
+  </item>
+  <item>
+    <title>Focus, Fidgets and Frustration: Helping a Child Who Struggles to Pay Attention</title>
+    <description>Sam, a registered social worker, and Amara explore why attention is a developing brain skill rather than laziness, and share practical ways to help — one clear instruction at a time, visible steps and timers, planned movement, protected sleep, and warm, specific praise for effort.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-d82d662f-eb42-4154-ad4c-a16e59da4f2f.mp3" length="3527077" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d82d662f-eb42-4154-ad4c-a16e59da4f2f</guid>
+    <pubDate>Tue, 20 Oct 2026 11:05:15 +0000</pubDate>
+    <itunes:duration>440</itunes:duration>
+  </item>
+  <item>
+    <title>Screens and Mood: What Is Your Child's Screen Time Replacing?</title>
+    <description>Sam, a registered social worker, and Amara explore why what screen time replaces matters as much as the minutes — protecting sleep, movement and time together, noticing how a child feels afterwards, and building a simple family media plan everyone follows.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-c4ff8e99-5836-4f97-92d2-d07e86ad50bc.mp3" length="3576613" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-c4ff8e99-5836-4f97-92d2-d07e86ad50bc</guid>
+    <pubDate>Mon, 19 Oct 2026 11:02:57 +0000</pubDate>
+    <itunes:duration>447</itunes:duration>
+  </item>
+  <item>
+    <title>When Everything Changes: Helping Your Child Stay Steady Through Big Transitions</title>
+    <description>Sam, a registered social worker, and Amara explore why big changes like a new school or a new home can unsettle children, and share practical ways to help — a clear map for the day, a few steady routines, small real choices, and one welcoming connection.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-b4025417-3500-4917-bc15-faca168276af.mp3" length="2847397" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-b4025417-3500-4917-bc15-faca168276af</guid>
+    <pubDate>Sun, 18 Oct 2026 11:01:29 +0000</pubDate>
+    <itunes:duration>355</itunes:duration>
+  </item>
+  <item>
+    <title>The Comparison Trap: Helping Your Child Feel Good Enough Without Needing to Be Best</title>
+    <description>Sam, a registered social worker, and Amara explore why comparing children to others quietly lowers self-esteem, and share practical ways to praise effort and strategy, welcome mistakes, and help children measure progress against their own yesterday.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-0bc2a7c1-75bb-409e-9fe2-977a2035acc6.mp3" length="3200293" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0bc2a7c1-75bb-409e-9fe2-977a2035acc6</guid>
+    <pubDate>Sat, 17 Oct 2026 11:01:49 +0000</pubDate>
+    <itunes:duration>400</itunes:duration>
+  </item>
+  <item>
+    <title>Lonely in a Crowd: Helping Children and Teens Feel They Truly Belong</title>
+    <description>🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+Sam, a registered social worker, and Amara explore why children and teens can feel lonely even when surrounded by people, and share gentle, practical ways to build belonging at home and at school — one trusted friend, one welcoming place, and small low-pressure moments of connection.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-ce8440f9-f3c2-4177-9e99-4e77fdf7e327.mp3" length="3548773" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ce8440f9-f3c2-4177-9e99-4e77fdf7e327</guid>
+    <pubDate>Fri, 16 Oct 2026 11:01:19 +0000</pubDate>
+    <itunes:duration>443</itunes:duration>
+  </item>
+  <item>
+    <title>When Worry Takes Over: Helping an Anxious Child Take One Brave Step at a Time</title>
+    <description>🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+Sam, a registered social worker, and Amara explain the avoidance cycle that keeps childhood anxiety strong, what recent research says about family accommodation, and how a brave ladder of small, planned steps helps children discover they can cope.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-cef5cbdd-7c0d-44d4-a557-f79ee39fda60.mp3" length="3257317" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-cef5cbdd-7c0d-44d4-a557-f79ee39fda60</guid>
+    <pubDate>Thu, 15 Oct 2026 11:01:14 +0000</pubDate>
+    <itunes:duration>407</itunes:duration>
+  </item>
+  <item>
+    <title>Big Feelings, Small Bodies: Helping Children Learn to Calm, Name, and Cope</title>
+    <description>Sam, a registered social worker, and Amara explore how children learn emotional regulation, and share calm, practical co-regulation steps parents and teachers can use in the storm and in the calm after.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-63e5516a-1616-4e26-ba45-d6149b2bb6d9.mp3" length="3075109" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-63e5516a-1616-4e26-ba45-d6149b2bb6d9</guid>
+    <pubDate>Wed, 14 Oct 2026 15:23:58 +0000</pubDate>
+    <itunes:duration>384</itunes:duration>
+  </item>
+  <item>
+    <title>Sleep First: Why a Tired Child Can Look Anxious, Sad, or Distracted</title>
+    <description>Sam, a registered social worker, and Amara explore how poor sleep shapes children's mental health, and share calm, practical routines families everywhere can start tonight.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-0bc6deab-051a-47c7-a8b0-7e745cb023b7.mp3" length="2535013" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0bc6deab-051a-47c7-a8b0-7e745cb023b7</guid>
+    <pubDate>Wed, 14 Oct 2026 15:23:52 +0000</pubDate>
+    <itunes:duration>316</itunes:duration>
+  </item>
+  <item>
+    <title>When a Child Loses Someone: Helping Children Through Grief</title>
+    <description>Sam, a registered social worker, and Amara guide parents, caregivers, and teachers through children's grief: the hidden signs, honest conversations, rituals that heal, and when to seek help.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-e50f122d-9294-4142-a869-d77f200c7f26.mp3" length="2934565" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e50f122d-9294-4142-a869-d77f200c7f26</guid>
+    <pubDate>Wed, 14 Oct 2026 15:23:46 +0000</pubDate>
+    <itunes:duration>366</itunes:duration>
+  </item>
+  <item>
+    <title>Bullying: The Wound Nobody Sees, and What Parents Can Do</title>
+    <description>Sam and Amara confront the bullying crisis among schoolchildren around the world: the research, the hidden warning signs, and five practical steps every parent can take.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-f8ff0707-c0c9-4ad8-ae61-cfbcb19e5028.mp3" length="2756389" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f8ff0707-c0c9-4ad8-ae61-cfbcb19e5028</guid>
+    <pubDate>Wed, 14 Oct 2026 15:23:40 +0000</pubDate>
+    <itunes:duration>344</itunes:duration>
+  </item>
+  <item>
+    <title>What Every Parent Should Know About Children's Mental Health</title>
+    <description>Sam, a registered social worker, and Amara unpack children's mental health for parents everywhere: the warning signs parents miss, what screens are really doing, and how to start the conversation.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-2a21fefa-bc30-4c38-aa70-728da5e99fc1.mp3" length="2949733" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2a21fefa-bc30-4c38-aa70-728da5e99fc1</guid>
+    <pubDate>Wed, 14 Oct 2026 15:23:20 +0000</pubDate>
+    <itunes:duration>368</itunes:duration>
+  </item>
+  <item>
+    <title>Big Feelings, Small Bodies: Helping Children Learn to Calm, Name, and Cope</title>
+    <description>Chukwuemeka, a registered social worker, and Amara explore how children learn emotional regulation, and share calm, practical co-regulation steps parents and teachers can use in the storm and in the calm after.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-6feb753d-b1fe-4131-966a-e3de25ec58e9.mp3" length="3101029" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-6feb753d-b1fe-4131-966a-e3de25ec58e9</guid>
+    <pubDate>Wed, 14 Oct 2026 11:55:39 +0000</pubDate>
+    <itunes:duration>387</itunes:duration>
+  </item>
+  <item>
+    <title>Sleep First: Why a Tired Child Can Look Anxious, Sad, or Distracted</title>
+    <description>Chukwuemeka, a registered social worker, and Amara explore how poor sleep shapes children's mental health, and share calm, practical routines families everywhere can start tonight.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-972ee619-8492-4f0a-aac2-17ed08fe0224.mp3" length="2573029" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-972ee619-8492-4f0a-aac2-17ed08fe0224</guid>
+    <pubDate>Wed, 14 Oct 2026 11:53:22 +0000</pubDate>
+    <itunes:duration>321</itunes:duration>
+  </item>
+  <item>
+    <title>When a Child Loses Someone: Helping Children Through Grief</title>
+    <description>Chukwuemeka, a registered social worker, and Amara guide parents, caregivers, and teachers through children's grief: the hidden signs, honest conversations, rituals that heal, and when to seek help.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-68ae43bc-af0f-4a5e-b4af-bd446bee3092.mp3" length="2953189" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-68ae43bc-af0f-4a5e-b4af-bd446bee3092</guid>
+    <pubDate>Wed, 14 Oct 2026 11:51:30 +0000</pubDate>
+    <itunes:duration>369</itunes:duration>
+  </item>
+  <item>
+    <title>Bullying: The Wound Nobody Sees, and What Parents Can Do</title>
+    <description>Chukwuemeka and Amara confront the bullying crisis among schoolchildren around the world: the research, the hidden warning signs, and five practical steps every parent can take.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-fd314c1a-75d7-4daf-ae45-af8572df3195.mp3" length="2747365" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-fd314c1a-75d7-4daf-ae45-af8572df3195</guid>
+    <pubDate>Wed, 14 Oct 2026 11:49:00 +0000</pubDate>
+    <itunes:duration>343</itunes:duration>
+  </item>
+  <item>
+    <title>What Every Parent Should Know About Children's Mental Health</title>
+    <description>Chukwuemeka, a registered social worker, and Amara unpack children's mental health for parents everywhere: the warning signs parents miss, what screens are really doing, and how to start the conversation.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-1150e996-471f-4f60-8d7d-5a24eba229ad.mp3" length="2967013" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1150e996-471f-4f60-8d7d-5a24eba229ad</guid>
+    <pubDate>Wed, 14 Oct 2026 11:46:50 +0000</pubDate>
+    <itunes:duration>370</itunes:duration>
+  </item>
+  <item>
+    <title>Big Feelings, Small Bodies: Helping Children Learn to Calm, Name, and Cope</title>
+    <description>Chukwuemeka, a registered social worker, and Amara explore how children learn emotional regulation in Nigeria and Canada, and share calm, practical co-regulation steps parents and teachers can use in the storm and in the calm after.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-9bd6a6fd-274f-4736-981f-d4d38dee6907.mp3" length="4046245" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-9bd6a6fd-274f-4736-981f-d4d38dee6907</guid>
+    <pubDate>Wed, 14 Oct 2026 11:02:10 +0000</pubDate>
+    <itunes:duration>505</itunes:duration>
+  </item>
+  <item>
+    <title>Sleep First: Why a Tired Child Can Look Anxious, Sad, or Distracted</title>
+    <description>Chukwuemeka, a registered social worker, and Amara explore how poor sleep shapes children's mental health in Nigeria and Canada, and share calm, practical routines families can start tonight.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-909e615c-f6e4-4621-a1cc-50e58b2c201f.mp3" length="3798181" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-909e615c-f6e4-4621-a1cc-50e58b2c201f</guid>
+    <pubDate>Tue, 13 Oct 2026 11:01:38 +0000</pubDate>
+    <itunes:duration>474</itunes:duration>
+  </item>
+  <item>
+    <title>When a Child Loses Someone: Helping Children Through Grief</title>
+    <description>Chukwuemeka, a registered social worker, and Amara guide parents, caregivers, and teachers through children's grief in Nigeria and Canada: the hidden signs, honest conversations, rituals that heal, and when to seek help.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-55b0296d-e3a8-47cd-9bc2-24a7d8463614.mp3" length="3284389" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-55b0296d-e3a8-47cd-9bc2-24a7d8463614</guid>
+    <pubDate>Mon, 12 Oct 2026 11:00:41 +0000</pubDate>
+    <itunes:duration>410</itunes:duration>
+  </item>
+  <item>
+    <title>Bullying: The Wound Nobody Sees, and What Parents Can Do</title>
+    <description>Chukwuemeka and Amara confront the bullying crisis among schoolchildren in Nigeria and Canada: the research, the hidden warning signs, and five practical steps every parent can take.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-5642022a-2fc7-4a23-9f72-2704fbe7353d.mp3" length="3169957" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5642022a-2fc7-4a23-9f72-2704fbe7353d</guid>
+    <pubDate>Sun, 11 Oct 2026 11:00:52 +0000</pubDate>
+    <itunes:duration>396</itunes:duration>
+  </item>
+  <item>
+    <title>What Every Parent Should Know About Children's Mental Health</title>
+    <description>Chukwuemeka, a registered social worker, and Amara unpack children's mental health in Nigeria and Canada: the warning signs parents miss, what screens are really doing, and how to start the conversation.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/f98df5fa-dc31-46a7-899e-5fbc2e6edeec/ep-7fbb1f69-8361-4ee9-8038-797270b5d27e.mp3" length="3657445" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7fbb1f69-8361-4ee9-8038-797270b5d27e</guid>
+    <pubDate>Sun, 11 Oct 2026 03:13:28 +0000</pubDate>
+    <itunes:duration>457</itunes:duration>
+  </item>
+</channel>
+</rss>
