@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- DRAFT — NOT PUBLISHED. Self-hosted replacement feed for "Children's Mental Health with Sam".
-     Built 2026-10-29 from the two Muse-generated feeds. Carries every episode with its
-     ORIGINAL guid, pubDate and enclosure URL, and adds the ownership tags the Muse
-     feed lacks (itunes:owner / itunes:author / managingEditor / podcast:guid). -->
+<!-- LIVE self-hosted feed for "Children's Mental Health with Sam" (GitHub Pages).
+     Launched 2026-10-30 from the two Muse-generated feeds; updated 2026-11-02 with the
+     Oct 30 - Nov 2 episodes (34 items). Every episode carries its ORIGINAL guid, pubDate
+     and enclosure URL, plus the ownership tags the Muse feed lacks (itunes:owner /
+     itunes:author / managingEditor / podcast:guid). -->
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -31,6 +32,50 @@ AI Generated</description>
   <atom:link href="https://samuelcno15-arch.github.io/childrens-mental-health-podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <podcast:guid>84bc9ede-dc1b-4167-a664-ab1e91cc5fb5</podcast:guid>
   <podcast:locked owner="samuelcno15@gmail.com">yes</podcast:locked>
+  <item>
+    <title>When the News Feels Scary: Helping a Child Make Sense of a Worrying World</title>
+    <description>Sam, a registered social worker, and Amara explore why scary headlines and worrying world events stay with children, what recent research says about news exposure at home, and how honest answers in small pieces, a calmer news dose and one small kind action together can help a child feel safe again.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-64b1ac61-f632-4bef-91cc-bcdbefc5158a.mp3" length="3497317" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-64b1ac61-f632-4bef-91cc-bcdbefc5158a</guid>
+    <pubDate>Mon, 02 Nov 2026 12:03:31 +0000</pubDate>
+    <itunes:duration>437</itunes:duration>
+  </item>
+  <item>
+    <title>Move to Feel Better: How Everyday Movement Lifts a Child's Mood</title>
+    <description>Sam, a registered social worker, and Amara explore how everyday movement — walking, play, dance and swimming, not just sport — can lift a child's mood, ease anxiety and improve sleep, and how to build small, kind, repeatable movement into a busy family day.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-32e604fa-b755-4122-966c-1de174155734.mp3" length="3559333" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-32e604fa-b755-4122-966c-1de174155734</guid>
+    <pubDate>Sun, 01 Nov 2026 12:02:28 +0000</pubDate>
+    <itunes:duration>444</itunes:duration>
+  </item>
+  <item>
+    <title>Fine at School, Falling Apart at Home: The After-School Collapse</title>
+    <description>Sam, a registered social worker, and Amara explore why a child can hold it together all day at school and fall apart at home, what masking and holding in feelings costs a child, and how a softer landing — greeting before questions, food and water first, and time to decompress — can change the whole evening.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-1e3b7661-3b5a-47c9-a78d-fc31f0ce1e71.mp3" length="3617509" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1e3b7661-3b5a-47c9-a78d-fc31f0ce1e71</guid>
+    <pubDate>Sat, 31 Oct 2026 11:02:12 +0000</pubDate>
+    <itunes:duration>452</itunes:duration>
+  </item>
+  <item>
+    <title>Can I Play Too? Helping a Child Join In and Make Friends</title>
+    <description>Sam, a registered social worker, and Amara explore why friendship is a set of small, learnable skills, how feeling part of a peer group builds resilience, and how to coach a child to join in, try again after a no, and seek comfort instead of hiding hurt.
+🎧 𝐅𝐎𝐋𝐋𝐎𝐖 Children's Mental Health with Sam on Spotify — a new episode every morning — and share this episode with one parent today.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1023286957542398/7494e33d-f0ee-462f-ac02-817aa23f1d70/ep-d61eee81-3507-496e-bf20-0b39bce7f53f.mp3" length="3123109" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d61eee81-3507-496e-bf20-0b39bce7f53f</guid>
+    <pubDate>Fri, 30 Oct 2026 11:03:06 +0000</pubDate>
+    <itunes:duration>390</itunes:duration>
+  </item>
   <item>
     <title>When Nightmares Keep Coming Back: Helping a Child Feel Safe to Sleep Again</title>
     <description>Sam, a registered social worker, and Amara explore why recurring nightmares become a cycle of dreading sleep itself, how children can learn mastery over bad dreams through calm routines, daytime rewriting and small brave steps in the dark, and when to seek extra help.
